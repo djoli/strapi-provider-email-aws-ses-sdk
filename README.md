@@ -4,8 +4,8 @@ An email provider for Strapi email plugin which supports mail through AWS SES, u
 
 ## Links
 
-[Strapi](https://strapi.io)
-[AWS SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS.html)
+* [Strapi](https://strapi.io)
+* [AWS SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS.html)
 
 ## Prerequisites
 
