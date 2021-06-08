@@ -1,4 +1,4 @@
-# strapi-provider-email-amazon-ses-sdk
+# strapi-provider-email-aws-ses-sdk
 
 An email provider for Strapi email plugin which supports mail through AWS SES, using the AWS SDK.
 
@@ -16,10 +16,10 @@ You need to have the following installed in your Strapi project:
 ## Installation
 ```
 # using yarn
-yarn add strapi-provider-email-amazon-ses-sdk
+yarn add strapi-provider-email-aws-ses-sdk
 
 # using npm
-npm install strapi-provider-email-amazon-ses-sdk --save
+npm install strapi-provider-email-aws-ses-sdk --save
 
 ```
 
