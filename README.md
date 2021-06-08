@@ -14,7 +14,7 @@ You need to have the following installed in your Strapi project:
 * `aws-sdk`
 
 ## Installation
-
+```
 # using yarn
 yarn add strapi-provider-email-amazon-ses-sdk
 
