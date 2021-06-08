@@ -1,0 +1,36 @@
+{
+  "name": "strapi-provider-email-amazon-ses-sdk",
+  "version": "1.0.0",
+  "description": "Amazon SES provider which uses AWS SDK for strapi email",
+  "homepage": "https://strapi.io",
+  "keywords": [
+    "email",
+    "strapi",
+    "amazon",
+    "ses"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "aws-sdk": "2.882.0"
+  },
+  "author": {
+    "email": "choco87@gmail.com",
+    "name": "Adam Britto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/djoli/strapi-provider-email-amazon-ses-sdk.git"
+  },
+  "bugs": {},
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  }
+}
